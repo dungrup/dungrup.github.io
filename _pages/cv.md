@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, North Carolina State University, 2027 (expected)
+* Bachelors in Electrical and Electronics Engineering, Manipal Institute of Technology, Manipal, 2019
+
+Research experience
+======
+* Research Assistant under [Dr. Man-Ki Yoon](https://mankiyoon.github.io)
+  * Developed an accountable, evidence preserving vision perception pipeline for autonomous vehicles (submitted to OSDI '25)
+  * Created a purely vision based localization technique for autonomous robots (submitted to ICRA '25)
+  * Conceptualized a system to continously adapt perception models in autonomous vehicles, with no human supervision
+  * Collaborated with [EcoPRT](https://ecoprt.com) to develop an affordable campus transportation system
+  * Implemented various object detection and image enhancement models on a Lincoln MKZ AV platform 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022: Embedded Software Developer at [KPIT](https://www.kpit.com)
+  * Developed DL applications for autonomous vehicles for a top Japanses automotive manufacturer
+  * Duties also included: collaborating and leading teams towards various technical goals relevant to autonomous vehicles
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019: Intern at [Analog Devices](https://www.analog.com/en/index.html)
+  * Involved in the development and testing of various device drivers 
+  * Duties included: Driver development, testing and prototyping
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, C++, C
+* Tools/Frameworks
+  * Gitlab, Git CI/CD
+  * Deep Learning Frameworks: PyTorch, Tensorflow, TensorRT
+* AI Capable Embedded platforms: Qualcomm Snapdragon Ride, NVIDIA Jetson Orin, NVIDIA Drive AGX, Texas Instruments TDA4x
 
 Publications
 ======
@@ -47,18 +47,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Services
+========
+
+* Reviewer: [100th IEEE Vehicular Technology Conference Fall 2024](https://events.vtsociety.org/vtc2024-fall/)
+* Student Volunteer: [IEEE Embedded Systems Week 2024](https://esweek.org)
