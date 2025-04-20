@@ -2,7 +2,7 @@
 title: "AdaptAV: Continuous Adaption of Vision Models for Autonomous Vehicles Using Cloud-based Oracle"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-10-01-adaptav
 excerpt: 'Deploying vision perception models in autonomous vehicles requires that we prioritize inference speeds, resulting in a
 model with shallower architectures and lesser model parameters
 (i.e., more pruned). Such small models do not generalize well,
