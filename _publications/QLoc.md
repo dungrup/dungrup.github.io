@@ -22,12 +22,11 @@ for vehicle localization based on the detected landmarks. We
 prototype these techniques on a small-scale autonomous vehicle
 platform to demonstrate the system’s capabilities and evaluate
 its accuracy and execution efficiency in real-world scenarios.'
-date: 06-22-2025
+date: 2025-06-22
 venue: '2025 36th IEEE Intelligent Vehicles Symposium'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/QLoc_IV.pdf'
-citation: 'Malinchok, C., Yu, J., Thapa, P., Ungrupulithaya, D. and Yoon, M.K., 2025, June. Q-Loc: Visual Cue-Based Ground Vehicle Localization
-Using Long Short-Term Memory. In 2025 36th IEEE Intelligent Vehicles Symposium'
+citation: "Malinchok, C., Yu, J., Thapa, P., Ungrupulithaya, D. and Yoon, M.K., 2025, June. Q-Loc: Visual Cue-Based Ground Vehicle Localization Using Long Short-Term Memory. In 2025 36th IEEE Intelligent Vehicles Symposium."
 ---
 
 Mobile autonomous systems are increasingly being
