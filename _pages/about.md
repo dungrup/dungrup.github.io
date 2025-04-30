@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science researcher and Ph.D. candidate at North Carolina State University passionate about developing innovative systems that push the boundaries of computing at the edge. My current research focuses on creating accountable and secure systems for autonomous vehicles.
+Hello and welcome to my website! I'm a Computer Science researcher currently pursuing my Ph.D. at North Carolina State University. My current research passions lie in autonomous systems and robotics.
 
-I have nearly three years of professional experience, having worked with [KPIT](https://www.kpit.com) and [Analog Devices](https://www.analog.com/en/index.html). At KPIT, I contributed to the development of ADAS applications on various AI-capable embedded platforms. At Analog Devices, I was involved in the development and testing of device drivers for the SHARC+ cores of next-generation Digital Signal Processors. I earned my Bachelor's degree in Electrical and Electronics Engineering from Manipal Institute of Technology (MIT), Manipal.
+While my work does involve the trending fields of AI, robotics, and autonomous vehicles, my specific focus is ensuring these systems are robust, accountable, and secure. Essentially, I'm dedicated to making sure tomorrow's robots are not only better but also operate safely when faced with malicious interference or unpredictable environmental conditions.
+
+Before pursuing my Ph.D., I worked at [KPIT](https://www.kpit.com) where I developed ADAS applications for a top Japanese automotive company. I also interned at [Analog Devices](https://www.analog.com/en/index.html) where I was involved in device driver development for ADI's next-gen Digital Signal Processors (DSPs). I earned my Bachelor's degree in Electrical and Electronics Engineering from Manipal Institute of Technology (MIT), Manipal.

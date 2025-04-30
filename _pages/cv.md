@@ -17,8 +17,8 @@ Education
 Research experience
 ======
 * Research Assistant under [Dr. Man-Ki Yoon](https://mankiyoon.github.io)
-  * Developed an accountable, evidence preserving vision perception pipeline for autonomous vehicles (submitted to OSDI '25)
-  * Created a purely vision based localization technique for autonomous robots (submitted to ICRA '25)
+  * Developed an accountable, evidence preserving vision perception pipeline for autonomous vehicles
+  * Created a purely vision based localization technique for autonomous robots 
   * Conceptualized a system to continously adapt perception models in autonomous vehicles, with no human supervision
   * Collaborated with [EcoPRT](https://ecoprt.com) to develop an affordable campus transportation system
   * Implemented various object detection and image enhancement models on a Lincoln MKZ AV platform 
@@ -26,7 +26,7 @@ Research experience
 Work experience
 ======
 * 2022: Embedded Software Developer at [KPIT](https://www.kpit.com)
-  * Developed DL applications for autonomous vehicles for a top Japanses automotive manufacturer
+  * Developed DL applications for autonomous vehicles for a top Japanese automotive manufacturer
   * Duties also included: collaborating and leading teams towards various technical goals relevant to autonomous vehicles
 
 * 2019: Intern at [Analog Devices](https://www.analog.com/en/index.html)
