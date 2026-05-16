@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Systems | Robotics | Autonomous Vehicles | PhD @ NC State 
 
 profile:
   align: right
   image: prof_pic.jpeg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Systems Lab</p>
-    <p>Department of Computer Science, NC State University</p>
-    <p>Raleigh, North Carolina</p>
+  image_circular: true # crops the image to make it circular
+  # more_info: >
+  #   <p>Systems Lab</p>
+  #   <p>Department of Computer Science, NC State University</p>
+  #   <p>Raleigh, North Carolina</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+# bio
 
 Hello and welcome to my website! I’m a Computer Science researcher currently pursuing my Ph.D. at North Carolina State University, under the guidance of Dr. [Man-Ki Yoon](https://mankiyoon.github.io). My current research passions lie in autonomous systems and robotics.
 
