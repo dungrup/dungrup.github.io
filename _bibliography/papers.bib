@@ -6,7 +6,7 @@
   title       = {RinneFormer: Transformer based Real-World Cooperative Perception Algorithm},
   author      = {Hariharan D, Zhu Y, Ungrupulithaya D, Yoon MK, Hollar S},
   abstract    = {Cooperative perception enables connected autonomous vehicles to overcome occlusion and limited sensing range by sharing complementary viewpoints. Existing feature‐level fusion methods, however, often struggle to preserve fine‐grained geometric structure within pillars, maintain spatial continuity across pillars, and remain robust to timing misalignment in realistic multi‐agent settings. We introduce RinneFormer, a cooperative 3D object detection framework that addresses these challenges through two components: (1) a Point Transformer Feature Extractor (PTFE) that applies localized self‐attention within dense pillars to capture intra‐pillar geometry, and (2) a Localized Context Awareness (LCA) module that aggregates features across neighboring pillars to improve spatial coherence. RinneFormer achieves state‐of‐the‐art accuracy on V2XSet and strong generalization to the real‐world DAIR‐V2X dataset. To assess deployability, we implement a distributed two‐agent pipeline in ROS in which independent RinneFormer nodes exchange intermediate features and operate under 0–100ms injected jitter. The system maintains stable end‐to‐end latency (mean 0.32 s) and consistent detection intervals over more than 8000 replayed frames, and also processes static LiDAR data from our EcoPRT platform, confirming compatibility with real sensor characteristics. These results demonstrate both the algorithmic effectiveness and practical system robustness of RinneFormer for cooperative perception in connected autonomous vehicles.},
-  journal     = {IEEE Intelligent Vehicles Symposium},
+  booktitle   = {2026 IEEE Intelligent Vehicles Symposium (IV)},
   pdf         = {RinneFormer_IV_2026.pdf},
   publisher   = {IEEE},
   year        = {2026},
@@ -54,5 +54,6 @@ inference accuracy over time.},
   booktitle   = {2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall)},
   pages       = {1--7},
   year        = {2024},
+  selected    = {true},
   organization= {IEEE}
 }
