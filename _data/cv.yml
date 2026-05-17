@@ -64,13 +64,18 @@ cv:
         end_date: 12/2017
         summary: Tried my hand at power electronics and electrical transmission systems at Schneider Electric.
 
-    Volunteer:
-      - company: Embedded Systems Week (ESWEEK)
-        position: Student Volunteer
-        location: Raleigh, NC
-        start_date: 2024
-        end_date: 2024
-        summary: As a student volunteer at ESWEEK, I assisted in the organization and execution of the conference, which is a premier event in the field of embedded systems.
+    Services:
+      - name: "Technical Program Committee Member — IEEE Vehicular Technology Conference (VTC) 2025, 2026"
+        url: https://events.vtsociety.org/vtc2026-spring/
+
+      - name: "Reviewer — IEEE Intelligent Vehicles Symposium (IV) 2026"
+        url: https://ieee-iv.org/2026/
+
+      - name: "Reviewer — IEEE Vehicular Technology Conference Fall (VTC) 2024"
+        url: https://events.vtsociety.org/vtc2024-fall/
+
+      - name: "Student Volunteer — IEEE Embedded Systems Week (ESWEEK) 2024"
+        url: https://esweek.org
 
     Awards:
       - title: Graduate Merit Award
@@ -131,15 +136,15 @@ cv:
 
       - name: Autonomous Systems & Robotics
         icon: fa-solid fa-robot
-        keywords: "Sensor Fusion, ADAS, ROS2, Carla Simulator"
+        keywords: "Sensor Fusion, ADAS, ROS2, LiDAR, Path Planning"
 
-      - name: Machine Learning 
+      - name: Machine Learning & Computer Vision
         icon: fa-solid fa-brain
-        keywords: "Computer Vision, Deep Learning"
+        keywords: "Computer Vision, Object Detection, Object Tracking, Deep Learning, MLOps"
 
       - name: Systems
         icon: fa-solid fa-server
-        keywords: "Linux, Docker, Git, CI/CD, Real-time Systems"
+        keywords: "Linux Kernel, FastDDS, FreeRTOS, Docker, Git, Real-time Systems"
 
       - name: Multimedia & GPU Acceleration
         icon: fa-solid fa-microchip
