@@ -278,6 +278,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
+scholar_userid: pEJ60ncAAAAJ # used by bib.liquid to look up citation counts in _data/citations.yml
+
 scholar:
   last_name: [Ungrupulithaya]
   first_name: [Dhruva, D]

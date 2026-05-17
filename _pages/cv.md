@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 cv_pdf: assets/pdf/Dhruva_Resume.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description: Please find my Curriculum Vitae below
+description: Please click on the icon for a PDF version
 toc:
   sidebar: left
 ---

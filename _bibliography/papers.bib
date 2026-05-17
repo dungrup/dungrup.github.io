@@ -1,10 +1,10 @@
 ---
 ---
-@article{rinne26,
+@inproceedings{rinne26,
   abbr        = {IEEE IV},
-  bibtex_show = {false},
+  bibtex_show = {true},
   title       = {RinneFormer: Transformer based Real-World Cooperative Perception Algorithm},
-  author      = {Hariharan D, Zhu Y, Ungrupulithaya D, Yoon MK, Hollar S},
+  author      = {Hariharan, D and Zhu, Y and Ungrupulithaya, D and Yoon, MK and Hollar, S},
   abstract    = {Cooperative perception enables connected autonomous vehicles to overcome occlusion and limited sensing range by sharing complementary viewpoints. Existing feature‐level fusion methods, however, often struggle to preserve fine‐grained geometric structure within pillars, maintain spatial continuity across pillars, and remain robust to timing misalignment in realistic multi‐agent settings. We introduce RinneFormer, a cooperative 3D object detection framework that addresses these challenges through two components: (1) a Point Transformer Feature Extractor (PTFE) that applies localized self‐attention within dense pillars to capture intra‐pillar geometry, and (2) a Localized Context Awareness (LCA) module that aggregates features across neighboring pillars to improve spatial coherence. RinneFormer achieves state‐of‐the‐art accuracy on V2XSet and strong generalization to the real‐world DAIR‐V2X dataset. To assess deployability, we implement a distributed two‐agent pipeline in ROS in which independent RinneFormer nodes exchange intermediate features and operate under 0–100ms injected jitter. The system maintains stable end‐to‐end latency (mean 0.32 s) and consistent detection intervals over more than 8000 replayed frames, and also processes static LiDAR data from our EcoPRT platform, confirming compatibility with real sensor characteristics. These results demonstrate both the algorithmic effectiveness and practical system robustness of RinneFormer for cooperative perception in connected autonomous vehicles.},
   booktitle   = {2026 IEEE Intelligent Vehicles Symposium (IV)},
   pdf         = {RinneFormer_IV_2026.pdf},
@@ -18,7 +18,7 @@
   bibtex_show = {true},
   abbr        = {IEEE IV},
   title       = {Q-Loc: Visual Cue-Based Ground Vehicle Localization Using Long Short-Term Memory},
-  author      = {Malinchock C, Yu J, Thapa P, Ungrupulithaya D, Yoon MK},
+  author      = {Malinchock, C and Yu, J and Thapa, P and Ungrupulithaya, D and Yoon, MK},
   abstract    = {Mobile autonomous systems are increasingly being deployed in controlled environments worldwide, with large fleets of ground robots performing tasks such as delivery and surveillance. These systems require reliable localization to navigate through such environments. While the Global Positioning System (GPS) is commonly implemented in these systems, urban environments can introduce inaccuracies due to signal blockages caused by large buildings and structures, or even complete signal loss. This paper proposes a rapid and cost-effective localization method using a sensor ubiquitous in autonomous systems: cameras. We introduce a system that uses vision-based machine learning techniques to detect common landmarks in camera streams and subsequently predict location. The system employs advanced object detection models for landmark identification and recurrent neural networks for vehicle localization based on the detected landmarks. We prototype these techniques on a small-scale autonomous vehicle platform to demonstrate the system’s capabilities and evaluateits accuracy and execution efficiency in real-world scenarios.},
   doi         = {10.1109/IV64158.2025.11097732},
   url         = {https://doi.org/10.1109/IV64158.2025.11097732},
@@ -34,7 +34,7 @@
   bibtex_show = {true},
   abbr        = {IEEE VTC},
   title       = {AdaptAV: Continuous Adaption of Vision Models for Autonomous Vehicles Using Cloud-based Oracle},
-  author      = {Zhu Y, Ungrupulithaya D, Ge B, Yoon MK},
+  author      = {Zhu, Y and Ungrupulithaya, D and Ge, B and Yoon, MK},
   abstract    = {Deploying vision perception models in autonomous vehicles requires that we prioritize inference speeds, resulting in a
 model with shallower architectures and lesser model parameters
 (i.e., more pruned). Such small models do not generalize well,

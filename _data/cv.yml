@@ -1,6 +1,6 @@
 cv:
   name: Dhruva Ungrupulithaya
-  label: PhD in Computer Science
+  label: Ph.D. Student in Computer Science
   email: dungrup@ncsu.edu
   location: Raleigh, NC
   image: ""
@@ -18,164 +18,143 @@ cv:
         location: Raleigh, NC
         url: https://www.ncsu.edu/
         area: Computer Science
-        studyType: PhD and MS
+        studyType: Ph.D. and Master of Science
         start_date: 2022
         end_date: 2028
         score: ""
         courses: "Operating Systems, Internet Protocols, Neural Networks, Computer Vision, Algorithms, Graph Theory"
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
 
       - institution: Manipal Institute of Technology
         location: Manipal, India
         url: https://www.manipal.edu/mu.html
         area: Electrical and Electronics Engineering
-        studyType: Bachelor's
+        studyType: Bachelor of Technology
         start_date: 2015
         end_date: 2019
-        # highlights:
-        #   - Description 1.
+        highlights:
+          - Minor in Embedded Systems
         #   - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: KPIT Technologies Ltd.
+        position: Software Engineer
+        location: Bangalore, India
+        start_date: 2020
+        end_date: 2022
+        summary: AT KPIT I worked on a variety of projects ranging from developing in-house semi-automated annotation tools to architecting and developing the ADAS stack for a major Japanese OEM.
         highlights:
-          - Relativity
-          - Description 2.
+          - Developed a communication middleware using TCP/UDP and inter-process communication, similar to ROS for use in the ADAS stack. 
+          - Formulated strategies to optimize the ADAS stack for real-time performance and implemented them, resulting in a 50% inprovement in resource efficiency.
+          - Evaluated various AI capable hardware platforms (NVIDIA Drive AGX, Qualcomm Snapdragon Ride, TI TDA4x, Ambarella) for use in the ADAS stack and provided recommendations to the client based on the evaluation.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Analog Devices
+        position: Intern
+        location: Bangalore, India
+        start_date: 02/2019
+        end_date: 08/2019
+        summary: At Analog Devices I was involved in the development of an automatic test harness for ADSP's SHARC audio processors.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Porting of ADSP 21xxx device drivers to make it backward compatible with legacy ADSP SC5xxx devices.
+          - Enabled multi-threading in device drivers to improve performance using FreeRTOS.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Schneider Electric
+        position: Intern
+        location: Bangalore, India
+        start_date: 12/2017
+        end_date: 12/2017
+        summary: Tried my hand at power electronics and electrical transmission systems at Schneider Electric.
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: Embedded Systems Week (ESWEEK)
+        position: Student Volunteer
+        location: Raleigh, NC
+        start_date: 2024
+        end_date: 2024
+        summary: As a student volunteer at ESWEEK, I assisted in the organization and execution of the conference, which is a premier event in the field of embedded systems.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Graduate Merit Award
+        date: 2025
+        awarder: College of Engineering, NC State University
+        url: https://grad.ncsu.edu/student-funding/fellowships-and-grants/opportunities/
+        summary: Awarded to outstanding graduate students in recognition of their academic achievements and potential for future success.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: High Flyers Award
+        date: 2021
+        awarder: KPIT Technologies Ltd.
+        summary: Awarded to employees who have demonstrated exceptional performance and contributed significantly to the company's success.
+
+      - title: Certificate of Excellence
+        date: 2017
+        awarder: QEEE, IIT Madras
+        summary: Awarded for outstanding performance in the  Digital System Design course of QEEE program conducted by Prof. Venkatesh TG at IIT Madras.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "RinneFormer: Transformer based Real-World Cooperative Perception Algorithm"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - D. Hariharan
+          - Y. Zhu
+          - D. Ungrupulithaya
+          - MK. Yoon
+          - S. Hollar
+        publisher: 2026 IEEE Intelligent Vehicles Symposium (IV)
+        releaseDate: 2026
+        summary: Introduces RinneFormer, a cooperative 3D object detection framework for connected autonomous vehicles using a Point Transformer Feature Extractor and Localized Context Awareness module, achieving state-of-the-art accuracy on V2XSet and strong generalization to the real-world DAIR-V2X dataset.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Q-Loc: Visual Cue-Based Ground Vehicle Localization Using Long Short-Term Memory"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - C. Malinchock
+          - J. Yu
+          - P. Thapa
+          - D. Ungrupulithaya
+          - MK. Yoon
+        publisher: 2025 IEEE Intelligent Vehicles Symposium (IV)
+        releaseDate: 2025
+        url: https://doi.org/10.1109/IV64158.2025.11097732
+        summary: Proposes a vision-based localization method for autonomous ground robots that detects common landmarks in camera streams and uses LSTM-based recurrent networks to predict vehicle location, prototyped on a small-scale autonomous vehicle platform.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "AdaptAV: Continuous Adaption of Vision Models for Autonomous Vehicles Using Cloud-based Oracle"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Y. Zhu
+          - D. Ungrupulithaya
+          - B. Ge
+          - MK. Yoon
+        publisher: 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall)
+        releaseDate: 2024
+        url: https://doi.org/10.1109/VTC2024-Fall63153.2024.10757493
+        summary: Proposes a system that continuously retrains pruned on-vehicle vision models using a cloud-based oracle model and abundant cloud compute, transmitting improved models back to vehicles to boost inference accuracy over time.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming Languages
+        icon: fa-solid fa-code
+        keywords: "C, C++, Python, Shell"
+
+      - name: Autonomous Systems & Robotics
+        icon: fa-solid fa-robot
+        keywords: "Sensor Fusion, ADAS, ROS2, Carla Simulator"
+
+      - name: Machine Learning 
+        icon: fa-solid fa-brain
+        keywords: "Computer Vision, Deep Learning"
+
+      - name: Systems
+        icon: fa-solid fa-server
+        keywords: "Linux, Docker, Git, CI/CD, Real-time Systems"
+
+      - name: Multimedia & GPU Acceleration
+        icon: fa-solid fa-microchip
+        keywords: "FFmpeg, NVENC/NVDEC, NVIDIA Jetpack, CUDA, TensorRT, Video Streaming"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Kannada
+        summary: "Native speaker"
+      
+      - name: Hindi
+        summary: "Fluent"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Tamil
+        summary: "Fluent"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
